@@ -1,0 +1,106 @@
+.main{
+  margin-left: 400px;
+}
+
+.head{
+  background: rgb(34, 37, 45);
+
+  image{
+    margin-top: 40px;
+  }
+
+  a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 20px;
+
+  }
+  button{
+    background:rgb(236, 127, 0) ;
+    width: 172px;
+    height: 36px;
+    border-radius: 20px;
+    margin-left: 20px;
+  }
+}
+
+.otstyp{
+  background: rgb(32, 41, 67);
+
+}
+
+
+.info{
+  .position{
+    margin-left: 400px;
+    width: 1980px;
+    height: 600px;
+    margin-top: 10px;
+
+  }
+  background:rgb(44, 49, 56) ;
+  pre{
+    margin-top: 20px;
+    color: white;
+    font-size: 26px;
+
+  }
+  .title{
+    margin-top: 20px;
+    color: white;
+    font-size: 26px;
+  }
+  button{
+
+    background: rgb(136, 31, 117);
+    border-radius: 15px;
+    width: 200px;
+    height: 50px;
+  }
+  .uli{
+
+  li{
+    color: yellow;
+    font-size: 20px;
+  }
+    li span{
+      color: white;
+    }
+    margin-right: 40px;
+    margin-top: 10px;
+    b{
+      margin-top: 20px;
+      color: yellow;
+    }
+  }
+}
+
+.boudi{
+  margin-left: 400px;
+  margin-right: 400px;
+  align-items: center;
+  .title2{
+    font-size: 35px;
+
+  }
+}
+
+.ander{
+  background: rgb(44, 49, 56);
+  table{
+    margin-left: 400px;
+  }
+}
+.tde{
+  color: white;
+  margin-left: 70px;
+}
+
+.td{
+  margin-left: 50px;
+  color: grey;
+  font-size: medium;
+}
+
+
